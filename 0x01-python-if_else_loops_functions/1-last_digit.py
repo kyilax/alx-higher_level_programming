@@ -2,9 +2,9 @@
 import random
 number = random.randint(-10000, 10000)
 
-if ld > 0:
+if number > 0:
     ld = number % 10
-elif ld < 0:
+elif number < 0:
     ld = (number * -1) % 10
     ld = ld * -1
 else:
