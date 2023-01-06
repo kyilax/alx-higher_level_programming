@@ -21,4 +21,4 @@ else:
         print("{} {} {} = {}".format(argv[1], argv[2], argv[3], c))
     elif argv[2] == "/":
         c = div(int(argv[1]), int(argv[3]))
-        print("{} {} {} = {}".format(argv[1], argv[2], argv[3], c))        
+        print("{} {} {} = {}".format(argv[1], argv[2], argv[3], c))
