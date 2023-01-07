@@ -1,1 +1,93 @@
-# PYTHON MODULE
+# ALX PROJECT NAME
+
+Description of the project...(remove this)
+
+- [Mandatory Task](#mandatory-task)
+- [Advanced Task](#advanced-task)
+- [Author](#author)
+- [Acknowledgments](#acknowledgements)
+- [Credits](#credits)
+- [Links](#link-to-template)
+
+## Task Preview
+
+- [X] Mandatory Task
+    - [X] task - 0
+    - [ ] task - 1
+
+- [ ] Advanced Task
+    - [ ] task - 101
+   
+
+## Mandatory Task
+
+#### [Task - 0](./0-add.py)
+
+**Challenge:**
+Making my file not to be executed when imported the __name__ command
+
+[Task 0](./0-add.py)
+
+### [Task - 1](./1-calculation.py)
+
+**Challenge:**
+Making my file not to be executed when imported the __name__ command
+
+[Task 1](./1-calculation.py)
+
+### [Task - 2](./2-args.py)
+
+**Challenge:**
+
+[Task 2](./2-args.py)
+
+
+## Advanced Task
+
+### [Task - 013](./filename)
+
+**Challenge:**
+
+[Task 100](./file-name)
+
+### [Task - 014](./filename)
+
+**Challenge:**
+
+[Task 101](./file-name)
+
+## What I learned from this project
+
+I leanr how to work with python modules and how to make a python un importable and also learnt how to use the import and from in python
+
+## Author
+
+- ALX - [ALX Africa](https://www.alxafrica.com)
+- Twitter - [_@thexovc](https://twitter.com/thexovc)
+
+## Acknowledgements
+I want to acknowledge Almighty God, youtube and stack overflow
+
+## Credits
+
+This template is made possible and written by:
+
+**Author**
+- GitHub - [Kyilax](https://github.com/Kyilax)
+- Twitter - [@thexovc\_](https://www.twitter.com/thexovc)
+- Website - [Kyilax-Portfolio](https://kyilax-portfolio.vercel.app/)
+
+**Co-author:**
+- GitHub - [Evil-Ghost](https://github.com/Evil-Ghost)
+- Twitter - [@Evil\_Ghost\_\_](https://www.twitter.com/evil_ghost__)
+- Medium - [Evil Ghost](https://medium.com/@evilghost)
+- Website - [Coming soon...](#)
+
+Note: Do not remove this if you used this template
+
+## Link to template
+
+- GitHub Repository - [alx-readme-template](https://github.com/Evil-Ghost/alx-readme-template)
+
+Note: Do not remove this if you used this template
+
