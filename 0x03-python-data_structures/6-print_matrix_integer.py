@@ -2,6 +2,11 @@
 def print_matrix_integer(matrix=[[]]):
     for i in matrix:
         ilen = len(i)
+        h = 0
         for j in i:
-            print(" {:d}".format(j), end="")
+            if h == 0:
+                print("{:d}".format(j), end="")
+            else:
+                print(" {:d}".format(j), end="")
+            h += 1
         print()
