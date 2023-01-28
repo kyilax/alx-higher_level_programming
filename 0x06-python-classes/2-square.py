@@ -5,7 +5,7 @@
 class Square:
     """ a square class """
     def __init__(self, size=0):
-        if size.isdigit():
+        if type(size) is int:
             if size >= 0:
                 self.__size = size
             else:
