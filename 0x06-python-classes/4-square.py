@@ -20,7 +20,7 @@ class Square:
     def area(self):
         """ retuns the area of a square """
         return (self.__size * self.__size)
-    
+
     @property
     def size(self):
         """ returns the value of size """
