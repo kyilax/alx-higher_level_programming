@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""define a rect class"""
+"""
+define a rect class
+"""
 
 
 class Rectangle:
