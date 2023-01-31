@@ -6,7 +6,7 @@ deines a class rectangle
 
 class Rectangle:
     """a class rect"""
-    def int(self, width=0, height=0):
+    def __init__(self, width=0, height=0):
         """ intializes the rect"""
         self.width = width
         self.height = height
