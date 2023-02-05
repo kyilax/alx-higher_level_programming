@@ -3,12 +3,10 @@
 
 def add_integer(a, b=98):
     """ addition of integers """
-
-    if not int(a) or not float(a):
-        return "a must be an integer"
-    elif not int(b) or not float(b):
-        return "b must be an integer"
-    else:
-        a = int(a)
-        b = int(b)
-        return (a + b)
+    if type(a) is not int and type(a) is not float:
+        raise TypeError("a must be an integer")
+    if type(b) is not int and type(b) is not float:
+        raise TypeError("b must be an integer")
+    a = int(a)
+    b = int(b)
+    return a + b
